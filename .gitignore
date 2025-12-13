@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+
+# Uploads and temp files
+uploads/
+temp/
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Debug logs
+.cursor/debug.log
+
