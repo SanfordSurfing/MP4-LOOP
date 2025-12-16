@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://mplooper.top/sitemap.xml
+
+# Disallow temp and upload directories
+Disallow: /uploads/
+Disallow: /temp/
+Disallow: /node_modules/
+
